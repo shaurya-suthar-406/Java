@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+}
+
+/* Margin Example */
+.margin-box {
+    background-color: lightblue;
+    margin: 50px; /* space outside */
+    border: 2px solid black;
+}
+
+/* Padding Example */
+.padding-box {
+    background-color: lightgreen;
+    padding: 30px; /* space inside */
+    border: 2px solid black;
+}
+
+/* Extra demonstration */
+.margin-box:hover {
+    margin: 80px;
+}
+
+.padding-box:hover {
+    padding: 50px;
+}

@@ -1,0 +1,23 @@
+/* Navigation links */
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+/* Hover effect */
+nav a:hover {
+    color: blue;
+}
+
+/* Active click effect */
+nav a:active {
+    color: red;
+}
+
+/* Input focus */
+input:focus {
+    border: 2px solid green;
+    background-color: lightyellow;
+}
