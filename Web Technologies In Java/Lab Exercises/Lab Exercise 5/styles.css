@@ -1,0 +1,14 @@
+/* ID Selector */
+#main-heading {
+    color: purple;
+    text-align: center;
+}
+
+/* Class Selector */
+.common-style {
+    color: green;
+    font-size: 18px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
